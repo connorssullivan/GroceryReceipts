@@ -1,0 +1,8 @@
+Item Number  Item Name     Unit  Unit Price  Tax   Subtotal 
+-------------- ---------- ------ ----------- ----- --------- 
+16           Green-beans    10        0.99      0         9.9         
+106          Black-Plums    5         2.99      0         14.95       
+108          Yellow-Peach   6         1.99      0         11.94       
+801          Beef-ChuckRost 15        4.86      4.374     77.274      
+201          Coffee-Folgers-48oz1         12.59     0.7554    13.3454     
+304          Fruit-Can-Peach-Del-30oz1         6.59      0.3954    6.9854      
